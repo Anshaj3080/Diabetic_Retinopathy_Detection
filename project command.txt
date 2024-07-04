@@ -1,0 +1,13 @@
+
+(base) C:\Users\shreya kalal>conda env list
+# conda environments:
+#
+base                  *  C:\Users\shreya kalal\anaconda3
+myproject                C:\Users\shreya kalal\anaconda3\envs\myproject
+
+
+(base) C:\Users\shreya kalal>conda activate myproject
+
+(myproject) C:\Users\shreya kalal>cd C:\Users\shreya kalal\OneDrive\Desktop\MYPROJECT\23_SHRUTHI_DiabaticRetinopathy
+
+(myproject) C:\Users\shreya kalal\OneDrive\Desktop\MYPROJECT\23_SHRUTHI_DiabaticRetinopathy>jupyter notebook
